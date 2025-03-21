@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.063,=C:\Users\Hp\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.985,=C:\Users\Hp\Documents\RAD Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.657,C:\Users\Hp\Documents\RAD Studio\Projects\Project1PCH1.h=C:\Muhammadqodir\builder1\bloknot\Project1PCH1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.414,C:\Users\Hp\Documents\RAD Studio\Projects\Unit1.cpp=C:\Muhammadqodir\builder1\bloknot\Unit1.cpp</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.863,C:\Users\Hp\Documents\RAD Studio\Projects\Project1.cbproj=C:\Muhammadqodir\builder1\bloknot\Project1.cbproj</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.414,C:\Users\Hp\Documents\RAD Studio\Projects\Unit1.h=C:\Muhammadqodir\builder1\bloknot\Unit1.h</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.414,C:\Users\Hp\Documents\RAD Studio\Projects\Unit1.dfm=C:\Muhammadqodir\builder1\bloknot\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
